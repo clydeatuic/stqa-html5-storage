@@ -1,0 +1,1 @@
+# stqa-html5-storage
